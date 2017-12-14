@@ -42,10 +42,9 @@ button#logout {
   float: right;
 }
 
-img.infoReload {
-  width: 32px;
-  height: 32px;
+#infoReload {
   float: right;
+  vertical-align: middle;
 }
 
 .borderTable .description {
